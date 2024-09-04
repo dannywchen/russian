@@ -7,7 +7,7 @@ const Home = () => {
       <main className="main-content">
         <div className="hero">
           <h1 className="hero-title">Better Russian</h1>
-          <p className="hero-subtitle">Student's go-to tool</p>
+          <p className="hero-subtitle">Student Exercise Kit for Russian Cases</p>
           <button className="cta-button">Get Started</button>
         </div>
         <div className="features">
